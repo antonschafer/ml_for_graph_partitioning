@@ -1,0 +1,252 @@
+erdos_renyi_10_1:
+mean imbalance: 0.11999999999999997
+mean factor to kernighan lin: 1.275
+mean difference to kernighan lin: 0.30000000000000027
+mean factor to random: 0.3943849206349206
+
+erdos_renyi_100_1:
+mean imbalance: 0.03600000000000003
+mean factor to kernighan lin: 1.1599475915391557
+mean difference to kernighan lin: 23.650000000000006
+mean factor to random: 0.6852502685323583
+
+erdos_renyi_500_1:
+mean imbalance: 0.01140000000000001
+mean factor to random: 0.8661294024076696
+
+erdos_renyi_10_2:
+mean imbalance: 0.11999999999999997
+mean factor to kernighan lin: 1.1666666666666665
+mean difference to kernighan lin: 0.30000000000000027
+mean factor to random: 0.5205627705627707
+
+erdos_renyi_100_2:
+mean imbalance: 0.02400000000000002
+mean factor to kernighan lin: 1.0970800144198862
+mean difference to kernighan lin: 35.25
+mean factor to random: 0.7947300957800657
+
+erdos_renyi_500_2:
+mean imbalance: 0.01160000000000001
+mean factor to random: 0.9090959033924559
+
+erdos_renyi_10_4:
+mean imbalance: 0.08999999999999998
+mean factor to kernighan lin: 1.06625
+mean difference to kernighan lin: 0.35000000000000053
+mean factor to random: 0.5728234265734266
+
+erdos_renyi_100_4:
+mean imbalance: 0.02300000000000002
+mean factor to kernighan lin: 1.0575466898653088
+mean difference to kernighan lin: 47.549999999999955
+mean factor to random: 0.8781975409824243
+
+erdos_renyi_500_4:
+mean imbalance: 0.010600000000000009
+mean factor to random: 0.9474814282668896
+
+watts_strogatz_10_2_1:
+mean imbalance: 0.039999999999999994
+mean factor to kernighan lin: 0.875
+mean difference to kernighan lin: -0.34999999999999987
+mean factor to random: 0.3196428571428572
+
+watts_strogatz_100_2_1:
+mean imbalance: 0.020000000000000018
+mean factor to kernighan lin: 4.695833333333333
+mean difference to kernighan lin: 8.7
+mean factor to random: 0.23290603493236142
+
+watts_strogatz_100_8_1:
+mean imbalance: 0.02400000000000002
+mean factor to kernighan lin: 2.0872268502319455
+mean difference to kernighan lin: 37.400000000000006
+mean factor to random: 0.36078254158327
+
+watts_strogatz_100_32_1:
+mean imbalance: 0.02300000000000002
+mean factor to kernighan lin: 1.0334543753843624
+mean difference to kernighan lin: 11.25
+mean factor to random: 0.4300786740358606
+
+watts_strogatz_500_2_1:
+mean imbalance: 0.016400000000000015
+mean factor to random: 0.2087712449203563
+
+watts_strogatz_500_8_1:
+mean imbalance: 0.015400000000000014
+mean factor to random: 0.3209866025955528
+
+watts_strogatz_500_32_1:
+mean imbalance: 0.028000000000000025
+mean factor to random: 0.3013563795890091
+
+watts_strogatz_500_128_1:
+mean imbalance: 0.02300000000000002
+mean factor to random: 0.4023269924899601
+
+watts_strogatz_10_2_2:
+mean imbalance: 0.09999999999999998
+mean factor to kernighan lin: 1.1166666666666667
+mean difference to kernighan lin: 0.050000000000000044
+mean factor to random: 0.362202380952381
+
+watts_strogatz_100_2_2:
+mean imbalance: 0.03400000000000003
+mean factor to kernighan lin: 4.544404761904762
+mean difference to kernighan lin: 11.05
+mean factor to random: 0.295920407691198
+
+watts_strogatz_100_8_2:
+mean imbalance: 0.02300000000000002
+mean factor to kernighan lin: 1.654552127587771
+mean difference to kernighan lin: 33.25
+mean factor to random: 0.4311075994279907
+
+watts_strogatz_100_32_2:
+mean imbalance: 0.029000000000000026
+mean factor to kernighan lin: 1.0952030540277735
+mean difference to kernighan lin: 38.39999999999998
+mean factor to random: 0.5464485623159486
+
+watts_strogatz_500_2_2:
+mean imbalance: 0.028600000000000025
+mean factor to random: 0.2612294437043804
+
+watts_strogatz_500_8_2:
+mean imbalance: 0.013000000000000012
+mean factor to random: 0.39056975876536615
+
+watts_strogatz_500_32_2:
+mean imbalance: 0.02300000000000002
+mean factor to random: 0.402696777583082
+
+watts_strogatz_500_128_2:
+mean imbalance: 0.027000000000000024
+mean factor to random: 0.520047983721121
+
+watts_strogatz_10_2_4:
+mean imbalance: 0.10999999999999996
+mean factor to kernighan lin: 0.9666666666666666
+mean difference to kernighan lin: -0.10000000000000009
+mean factor to random: 0.317281746031746
+
+watts_strogatz_100_2_4:
+mean imbalance: 0.031000000000000028
+mean factor to kernighan lin: 3.0975
+mean difference to kernighan lin: 8.2
+mean factor to random: 0.24155428876942175
+
+watts_strogatz_100_8_4:
+mean imbalance: 0.03200000000000003
+mean factor to kernighan lin: 1.3466235740743135
+mean difference to kernighan lin: 29.400000000000006
+mean factor to random: 0.5699160775500993
+
+watts_strogatz_100_32_4:
+mean imbalance: 0.03600000000000003
+mean factor to kernighan lin: 1.1181857708347205
+mean difference to kernighan lin: 62.299999999999955
+mean factor to random: 0.7280841890613896
+
+watts_strogatz_500_2_4:
+mean imbalance: 0.015000000000000013
+mean factor to random: 0.24037241404206053
+
+watts_strogatz_500_8_4:
+mean imbalance: 0.012800000000000011
+mean factor to random: 0.5332370681310663
+
+watts_strogatz_500_32_4:
+mean imbalance: 0.01180000000000001
+mean factor to random: 0.5842209589768904
+
+watts_strogatz_500_128_4:
+mean imbalance: 0.021200000000000017
+mean factor to random: 0.6758967515770122
+
+watts_strogatz_10_2_8:
+mean imbalance: 0.11999999999999997
+mean factor to kernighan lin: 1.225
+mean difference to kernighan lin: 0.4500000000000002
+mean factor to random: 0.479781746031746
+
+watts_strogatz_100_2_8:
+mean imbalance: 0.029000000000000026
+mean factor to kernighan lin: 2.61327380952381
+mean difference to kernighan lin: 7.0
+mean factor to random: 0.2316193197770792
+
+watts_strogatz_100_8_8:
+mean imbalance: 0.026000000000000023
+mean factor to kernighan lin: 1.2213983107535626
+mean difference to kernighan lin: 23.5
+mean factor to random: 0.637457380835642
+
+watts_strogatz_100_32_8:
+mean imbalance: 0.031000000000000028
+mean factor to kernighan lin: 1.068713062636931
+mean difference to kernighan lin: 44.299999999999955
+mean factor to random: 0.8497615841534468
+
+watts_strogatz_500_2_8:
+mean imbalance: 0.01100000000000001
+mean factor to random: 0.232247808611694
+
+watts_strogatz_500_8_8:
+mean imbalance: 0.010000000000000009
+mean factor to random: 0.6324345143990342
+
+watts_strogatz_500_32_8:
+mean imbalance: 0.009000000000000008
+mean factor to random: 0.8196877178547959
+
+watts_strogatz_500_128_8:
+mean imbalance: 0.013200000000000012
+mean factor to random: 0.923871185005648
+
+barabasi_albert_10_2:
+mean imbalance: 0.13999999999999999
+mean factor to kernighan lin: 1.0280952380952382
+mean difference to kernighan lin: 0.10000000000000053
+mean factor to random: 0.6480555555555554
+
+barabasi_albert_100_2:
+mean imbalance: 0.038000000000000034
+mean factor to kernighan lin: 1.3318216964638894
+mean difference to kernighan lin: 12.399999999999999
+mean factor to random: 0.5123489920580028
+
+barabasi_albert_100_8:
+mean imbalance: 0.03500000000000003
+mean factor to kernighan lin: 1.0886081932966163
+mean difference to kernighan lin: 22.700000000000045
+mean factor to random: 0.7530150715339292
+
+barabasi_albert_100_32:
+mean imbalance: 0.03900000000000002
+mean factor to kernighan lin: 1.033959082576873
+mean difference to kernighan lin: 32.200000000000045
+mean factor to random: 0.8931341750726609
+
+barabasi_albert_500_2:
+mean imbalance: 0.013000000000000012
+mean factor to random: 0.49682367937195043
+
+barabasi_albert_500_8:
+mean imbalance: 0.01980000000000002
+mean factor to random: 0.7333833307335653
+
+barabasi_albert_500_32:
+mean imbalance: 0.013200000000000012
+mean factor to random: 0.8389473037282678
+
+barabasi_albert_500_128:
+mean imbalance: 0.013200000000000012
+mean factor to random: 0.9197795396420616
+
+Overall
+Mean imbalance: 0.03559591836734695
+Mean factor to random: 0.5479314774916009
+Mean factor to kern_lin: 1.5794106744827017

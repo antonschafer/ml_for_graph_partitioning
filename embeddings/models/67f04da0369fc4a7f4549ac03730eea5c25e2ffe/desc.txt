@@ -1,0 +1,1 @@
+commit 6460338 100epochs entire dataset batchnorm on all embedding layers and partitioning layers, adj not normalized, catGCN

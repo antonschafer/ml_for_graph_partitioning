@@ -1,0 +1,12 @@
+model hash: e53732c1e2c996e4ad956d93546ee72ea25f3675
+
+k: 2
+
+feature generator:degree_ones_features
+
+dataset: combined
+	barabasi_albert  with parameters  [[(10, 2), (100, 2), (100, 8), (100, 32), (500, 2), (500, 8), (500, 32), (500, 128)], range(0, 80)]
+	erdos_renyi  with parameters  [[10, 100, 500], [0.1, 0.2, 0.4], range(0, 80)]
+	watts_strogatz  with parameters  [[(10, 2), (100, 2), (100, 8), (100, 32), (500, 2), (500, 8), (500, 32), (500, 128)], [0.1, 0.2, 0.4, 0.8], range(0, 80)]
+
+description: GCN not trained
